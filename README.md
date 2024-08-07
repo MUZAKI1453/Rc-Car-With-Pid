@@ -1,10 +1,13 @@
 # Rc-Car-With-Pid
 # Penjelasan literatur :
   https://blog.indobot.co.id/pid-controller-untuk-arduino/
+  
   https://microcontrollerslab.com/pid-controller-implementation-using-arduino/
+  
   https://www.project.semesin.com/2018/03/13/sistem-kontrol-pid-dengan-arduino/
 # Penjelasan youtube :
   https://www.youtube.com/watch?v=4Y7zG48uHRo
+  
   https://youtube.com/shorts/gEkkCLAwXrQ?si=wZKT3bZutA0o7bko
 # Penjelasan :
   Konsep PID (Proportional-Integral-Derivative)
