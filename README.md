@@ -9,6 +9,10 @@
   https://www.youtube.com/watch?v=4Y7zG48uHRo
   
   https://youtube.com/shorts/gEkkCLAwXrQ?si=wZKT3bZutA0o7bko
+
+  https://youtu.be/SZK5BvsQjX0?si=hYS71KhNlJQ4eUD9
+
+  https://youtu.be/c3nMN0EGsxM?si=j1XqHLsYMw4DeIiV
 # Penjelasan :
   Konsep PID (Proportional-Integral-Derivative)
   PID adalah metode kontrol yang menggunakan tiga parameter untuk menstabilkan sistem:
